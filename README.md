@@ -1,2 +1,2 @@
-# allenfp.github.io
-Portfolio Site
+# Allen Partlow's Portfolio 
+View at: https://allenfp.github.io/portfolio/
